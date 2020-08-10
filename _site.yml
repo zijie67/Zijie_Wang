@@ -1,0 +1,21 @@
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "My First Website"
+  left:
+    - text: "Home Page"
+      icon: fa-home
+      href: index.html
+    - text: "geog176A"
+      icon: fa-globe
+      href: geog176A.html
+    - text: "Zijie Wang"
+      icon: fas fa-user-graduate
+      href: CV.html
+  right:
+    - text: "Github Link"
+      icon: fa-github
+      href: https://github.com/zijie67/Zijie-Wang.git
+output:
+  html_document:
+    theme: cosmo

@@ -1,0 +1,11 @@
+---
+title: "Projects"
+---
+
+## [Home Page](C:/Users/14290/Desktop/Zijie-Wang/index.html)
+
+In the summer of 2020 I took a class GIS course based in R. I worte some code, and did some cool data science. Here is a collection of links! 
+
+- I learned how to make web pages with rstudio
+- How to modify the appearance of web pages
+- Learned to combine rstudio and github to make programming more convenient

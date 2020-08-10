@@ -1,0 +1,28 @@
+---
+title: "About Me"
+---
+
+<style>
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+</style>
+
+<center>
+![](/Users/14290/Desktop/Zijie-Wang/img/20200811000445.jpg)
+
+
+<center>
+# Hi, I'm Zijie Wang.
+</center>
+  
+This is my first class on programming. It is a challenge for me. I chose geography because I prefer natural sciences. I hope to have the opportunity to explore the unknown side of the earth with many people in the future.
+
+The image is the cat named meniee that I have raised for three years. Because it accompanies my study abroad life, I choose to be my image.
